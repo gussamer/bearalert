@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>ApexClass</name>
+    <members>NotificationController</members>
+  </types>
+  <types>
+    <name>CustomApplication</name>
+    <members>standard__LightningSales</members>
+  </types>
+  <types>
+    <name>AuraDefinitionBundle</name>
+    <members>notificationConsole</members>
+  </types>
+  <types>
+    <name>FlexiPage</name>
+    <members>Sales_UtilityBar</members>
+  </types>
+  <types>
+    <name>CustomField</name>
+    <members>Notification__e.Message__c</members>
+  </types>
+  <types>
+    <name>CustomObject</name>
+    <members>Notification__e</members>
+  </types>
+  <types>
+    <name>Profile</name>
+    <members>Admin</members>
+    <members>Custom%3A Marketing Profile</members>
+    <members>Custom%3A Sales Profile</members>
+    <members>Custom%3A Support Profile</members>
+  </types>
+  <types>
+    <name>StaticResource</name>
+    <members>cometd</members>
+  </types>
+  <types>
+    <name>ApexTrigger</name>
+    <members>BearAlertTopicAssignmentTrigger</members>
+  </types>
+  <version>42.0</version>
+</Package>

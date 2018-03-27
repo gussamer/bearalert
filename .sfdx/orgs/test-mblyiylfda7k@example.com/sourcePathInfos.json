@@ -1,0 +1,520 @@
+[
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522172831903,
+            "changeTime": 1522172831903,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522172831903,
+            "changeTime": 1522172831903,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522176038708,
+            "changeTime": 1522176038708,
+            "contentHash": "be51e621d89c748e9371bb73e81be1a436c67065"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522173167565,
+            "changeTime": 1522173167565,
+            "contentHash": "faec0b3701e20d0f1fabb586ad3be4e9213e92c6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura\\notificationConsole",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura\\notificationConsole",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522173167575,
+            "changeTime": 1522173167575,
+            "contentHash": "a77cea291525382a8f9796ef50bd55bf82f79dbf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura\\notificationConsole\\notificationConsole.auradoc",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura\\notificationConsole\\notificationConsole.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1522173167575,
+            "changeTime": 1522173167575,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura\\notificationConsole\\notificationConsole.cmp",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura\\notificationConsole\\notificationConsole.cmp",
+            "isDirectory": false,
+            "size": 2016,
+            "modifiedTime": 1522174424381,
+            "changeTime": 1522174424381,
+            "contentHash": "bfd2d28a4fa8f7294adc78f8f95ea8645419e8f3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura\\notificationConsole\\notificationConsole.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura\\notificationConsole\\notificationConsole.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 251,
+            "modifiedTime": 1522173167568,
+            "changeTime": 1522173167568,
+            "contentHash": "674e7b33cb4a461e7095e83a7cb8484639911091",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura\\notificationConsole\\notificationConsole.css",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura\\notificationConsole\\notificationConsole.css",
+            "isDirectory": false,
+            "size": 88,
+            "modifiedTime": 1522173290134,
+            "changeTime": 1522173290134,
+            "contentHash": "810bc8053dbc6bac533509f98d42c939c2ce35ff",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura\\notificationConsole\\notificationConsole.design",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura\\notificationConsole\\notificationConsole.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1522173167576,
+            "changeTime": 1522173167576,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura\\notificationConsole\\notificationConsole.svg",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura\\notificationConsole\\notificationConsole.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1522173167574,
+            "changeTime": 1522173167574,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura\\notificationConsole\\notificationConsoleController.js",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura\\notificationConsole\\notificationConsoleController.js",
+            "isDirectory": false,
+            "size": 1527,
+            "modifiedTime": 1522174521731,
+            "changeTime": 1522174521731,
+            "contentHash": "c291a239216708c284c2fbbdae1d9c86331ba508",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura\\notificationConsole\\notificationConsoleHelper.js",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura\\notificationConsole\\notificationConsoleHelper.js",
+            "isDirectory": false,
+            "size": 2810,
+            "modifiedTime": 1522174443987,
+            "changeTime": 1522174443987,
+            "contentHash": "342953de57ea4ee052af77bd8df384204b1c22c0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura\\notificationConsole\\notificationConsoleRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\aura\\notificationConsole\\notificationConsoleRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1522173167573,
+            "changeTime": 1522173167573,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522175639892,
+            "changeTime": 1522175639892,
+            "contentHash": "b4719418253a371771bd006088d7ad4219a22cd9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\flexipages\\Sales_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\flexipages\\Sales_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 1691,
+            "modifiedTime": 1522174116988,
+            "changeTime": 1522174116988,
+            "contentHash": "49b7fbf290f526bd5250f5ed8e2ff8abc98f3e49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "size": 964,
+            "modifiedTime": 1522174116992,
+            "changeTime": 1522174116992,
+            "contentHash": "ea7153bb4719c790c7a89c78c26aa216627ca7a8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522174116987,
+            "changeTime": 1522174116987,
+            "contentHash": "2f79f562223ef599e86fc717c1112841ef079bd5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522174116992,
+            "changeTime": 1522174116992,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\staticresources\\cometd.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\staticresources\\cometd.resource-meta.xml",
+            "isDirectory": false,
+            "size": 264,
+            "modifiedTime": 1522174270675,
+            "changeTime": 1522174270675,
+            "contentHash": "e88c0c511675747bf3543a42589c2e31d8e8b40f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\staticresources\\cometd.js",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\staticresources\\cometd.js",
+            "isDirectory": false,
+            "size": 125858,
+            "modifiedTime": 1522174270678,
+            "changeTime": 1522174270678,
+            "contentHash": "e913d4e230919f88e214cf8c0ebcba1f1a92f7f9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522174270677,
+            "changeTime": 1522174270677,
+            "contentHash": "d8e7ce48ca1714071d7663c25d63e2ef7b232bd5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\apex",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\apex",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522174345544,
+            "changeTime": 1522174345544,
+            "contentHash": "905850ee9d09780776b53a5926108f76f40288b1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\apex\\NotificationController.cls",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\apex\\NotificationController.cls",
+            "isDirectory": false,
+            "size": 930,
+            "modifiedTime": 1522175027678,
+            "changeTime": 1522175027678,
+            "contentHash": "5bffe56be6c860a140676731eee4b26e9aee54b0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\apex\\NotificationController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\apex\\NotificationController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1522174345545,
+            "changeTime": 1522174345545,
+            "contentHash": "ae780d0bcb389345f814ed4d5812d985be76a926",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\triggers",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522175667529,
+            "changeTime": 1522175667529,
+            "contentHash": "95368b550bd5c610b0414cca766b2b46d62b0b8e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\triggers\\BearAlertTopicAssignmentTrigger.trigger",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\triggers\\BearAlertTopicAssignmentTrigger.trigger",
+            "isDirectory": false,
+            "size": 886,
+            "modifiedTime": 1522175713085,
+            "changeTime": 1522175713085,
+            "contentHash": "a3122c49017d46b780ea5fb32cfb93a5b27c25e0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\triggers\\BearAlertTopicAssignmentTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\triggers\\BearAlertTopicAssignmentTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 211,
+            "modifiedTime": 1522175667530,
+            "changeTime": 1522175667530,
+            "contentHash": "46d417288f3db90bb83bb00b02add43ab8a58c11",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\objects\\Notification__e\\Notification__e.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\objects\\Notification__e\\Notification__e.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 342,
+            "modifiedTime": 1522176038702,
+            "changeTime": 1522176038702,
+            "contentHash": "867f4863542b823d9ec78b614d420da89463b69b"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\objects\\Notification__e\\fields\\Message__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\objects\\Notification__e\\fields\\Message__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 513,
+            "modifiedTime": 1522176038704,
+            "changeTime": 1522176038704,
+            "contentHash": "9f5484b613115117cc28398daffc7018a0b9566b"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4977,
+            "modifiedTime": 1522176038710,
+            "changeTime": 1522176038710,
+            "contentHash": "6e5b27e9bd46d92294b012a93968b3c59bb6589b"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4639,
+            "modifiedTime": 1522176038715,
+            "changeTime": 1522176038715,
+            "contentHash": "002d45d9c9d4ccf9d7399bb776fa5c2681bf1f5d"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4639,
+            "modifiedTime": 1522176038720,
+            "changeTime": 1522176038720,
+            "contentHash": "002d45d9c9d4ccf9d7399bb776fa5c2681bf1f5d"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18032,
+            "modifiedTime": 1522176038731,
+            "changeTime": 1522176038731,
+            "contentHash": "190c30dd847eac3f6f48b6c5fe6584d5a6be7f40"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\objects\\Notification__e",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\objects\\Notification__e",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522176038703,
+            "changeTime": 1522176038703,
+            "contentHash": "c2e43806e1e3bac62dc91816514d07392f775692"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522176038700,
+            "changeTime": 1522176038700,
+            "contentHash": "2d7704f499996d4b57846d204df76df7cfaa19f7"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\objects\\Notification__e\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\objects\\Notification__e\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522176038703,
+            "changeTime": 1522176038703,
+            "contentHash": "5e63cf25a04e7d1ea8b8ef238b8780cdac964fbb"
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Documents\\sfdx\\bearalert\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522176038731,
+            "changeTime": 1522176038731,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
